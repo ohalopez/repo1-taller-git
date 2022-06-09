@@ -1,0 +1,1 @@
+hago logica de la db
